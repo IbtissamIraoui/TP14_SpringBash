@@ -1,0 +1,8 @@
+ma\ens\springbash\repository\EtudiantRepository.class
+ma\ens\springbash\model\Etudiant$EtudiantBuilder.class
+ma\ens\springbash\controller\HomeController.class
+ma\ens\springbash\DataInitializer.class
+ma\ens\springbash\model\Etudiant.class
+ma\ens\springbash\service\EtudiantService.class
+ma\ens\springbash\controller\EtudiantController.class
+ma\ens\springbash\SpringbashApplication.class
