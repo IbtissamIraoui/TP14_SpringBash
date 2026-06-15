@@ -9,10 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * API REST pour la gestion des étudiants.
- * Accessible sur http://localhost:8085/api/etudiants
- */
+
 @RestController
 @RequestMapping("/api/etudiants")
 @RequiredArgsConstructor
